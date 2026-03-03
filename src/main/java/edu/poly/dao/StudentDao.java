@@ -9,5 +9,7 @@ package edu.poly.dao;
  * @author Admin
  */
 public class StudentDao {
-    
+   public void insert (){
+       
+   } 
 }
